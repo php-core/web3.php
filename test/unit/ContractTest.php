@@ -8,7 +8,7 @@ use PHPCore\Contract;
 use PHPCore\Utils;
 use PHPCore\Contracts\Ethabi;
 use PHPCore\Formatters\IntegerFormatter;
-use phpseclib\Math\BigInteger as BigNumber;
+use phpseclib3\Math\BigInteger as BigNumber;
 
 class ContractTest extends TestCase
 {
