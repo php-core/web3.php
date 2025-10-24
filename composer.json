@@ -19,7 +19,7 @@
         "kornrunner/keccak": "^1",
         "phpseclib/phpseclib": "^3",
         "ext-mbstring": "*",
-        "react/http": "^1.6.0",
+        "react/http": "^1.11.0",
         "react/async": "^4.0.0|^3.1.0",
         "react/promise": "^2.9.0",
         "react/event-loop": "^1.2",
